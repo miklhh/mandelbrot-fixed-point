@@ -1,4 +1,7 @@
 # Mandelbrot set renderer using fixed point
+The Mandelbrot set is the set of complex numbers for which the recurrence relation
+![](https://latex.codecogs.com/gif.latex?z_n&space;=&space;z_{n-1}^2&space;&plus;&space;c,&space;z_0&space;=&space;0)
+does not diverge.
 
 ---
 
@@ -24,11 +27,6 @@
 
 10 Fractional bits
 ![10 Fractional bits](img/frac_10.png)
-
----
-
-12 Fractional bits
-![12 Fractional bits](img/frac_12.png)
 
 ---
 
