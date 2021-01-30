@@ -1,0 +1,6 @@
+mandelbrot
+*.bmp
+*.swp
+_tmp*
+sweep.cc
+sweep.sh
