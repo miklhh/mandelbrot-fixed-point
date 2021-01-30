@@ -1,7 +1,11 @@
 # Mandelbrot set renderer using fixed point
-The Mandelbrot set is the set of complex numbers for which the recurrence relation
+The Mandelbrot set 
+![](https://latex.codecogs.com/gif.latex?\mathcal{M})
+is the set of complex numbers 
+![](https://latex.codecogs.com/gif.latex?c)
+for which the recurrence relation
 ![](https://latex.codecogs.com/gif.latex?z_n&space;=&space;z_{n-1}^2&space;&plus;&space;c,&space;z_0&space;=&space;0)
-does not diverge.
+does not diverge when iterated. The Mandelbrot set is oftan shown to illustrate the beauty of mathematics.
 
 ---
 
