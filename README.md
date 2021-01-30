@@ -1,8 +1,14 @@
 # Mandelbrot set renderer using fixed point
 
+2 Fractional bits
 ![2 Fractional bits](img/frac_2.png)
 
+---
+
+3 Fractional bits
 ![3 Fractional bits](img/frac_3.png)
+
+---
 
 ![4 Fractional bits](img/frac_4.png)
 
